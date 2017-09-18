@@ -1,2 +1,9 @@
 # typecho2Hexo
-typecho转为Hexo所需的md文件
+
+Typecho 文章批量转 Hexo Markdown 文档。
+
+## Usage
+
+```bash
+php converter.php
+```
